@@ -8,9 +8,10 @@ Discord Server XP - Gain XP in a Discord server quickly &amp; legally, With this
 # For Windows (Open CMD & paste this):
 git clone https://github.com/rhpo/dsx && cd dsx && notepad config.ini
 # For Linux (Open Shell & run this):
-git clone https://github.com/rhpo/dsx && cd dsx && nvim config.ini
+git clone https://github.com/rhpo/dsx; cd dsx; nvim config.ini
 
 # Once you finish the changes, save the file and run:
-npm i && node index.js
+npm i && node index.js # Windows
+npm i; node index.js   # LINOX 😂
 
 ```
